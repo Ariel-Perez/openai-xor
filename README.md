@@ -1,6 +1,6 @@
 # OpenAI XOR
 
-Warm-up exercise from OpenAI's (Requests for Research)[https://blog.openai.com/requests-for-research-2/].
+Warm-up exercise from OpenAI's [Requests for Research](https://blog.openai.com/requests-for-research-2/).
 
 ### Task
 Train an LSTM to solve the XOR problem: that is, given a sequence of bits, determine its parity. The LSTM should consume the sequence, one bit at a time, and then output the correct answer at the sequence’s end. Test the two approaches below:
